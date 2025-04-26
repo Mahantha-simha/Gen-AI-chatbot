@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # Configure the Gemini API
-genai.configure(api_key='AIzaSyDnQ7TujjQyU4Kjl6o9U7GN2CkzaDOrxX0')
+genai.configure(api_key='AIzaSyDnQ7TujjQyU4Kjl6o9U7GN2C')
 
 # Store conversation history
 conversation_history = {}
